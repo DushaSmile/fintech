@@ -1,0 +1,11 @@
+{
+  "main.js": "/fintech/static/js/main.2ba57bb3.chunk.js",
+  "main.js.map": "/fintech/static/js/main.2ba57bb3.chunk.js.map",
+  "static/js/1.db59ca17.chunk.js": "/fintech/static/js/1.db59ca17.chunk.js",
+  "static/js/1.db59ca17.chunk.js.map": "/fintech/static/js/1.db59ca17.chunk.js.map",
+  "runtime~main.js": "/fintech/static/js/runtime~main.db51892f.js",
+  "runtime~main.js.map": "/fintech/static/js/runtime~main.db51892f.js.map",
+  "index.html": "/fintech/index.html",
+  "precache-manifest.e040b5d89d761a47b33da4cf20072e92.js": "/fintech/precache-manifest.e040b5d89d761a47b33da4cf20072e92.js",
+  "service-worker.js": "/fintech/service-worker.js"
+}
